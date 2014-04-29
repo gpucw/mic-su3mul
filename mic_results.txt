@@ -1,0 +1,127 @@
+ 0: nthr =     60,      100 iters, length =    15360, t =     331.53 usec per iter, BW =  22.78 GB/s, perf =     12231.29 Mflop/s
+ 1: nthr =     60,      100 iters, length =    15360, t =     237.95 usec per iter, BW =  30.78 GB/s, perf =     17041.56 Mflop/s, diff = 8.639454e-33
+ 2: nthr =     60,      100 iters, length =    15360, t =     246.75 usec per iter, BW =  30.61 GB/s, perf =     16433.80 Mflop/s, diff = 3.507929e-33
+ 3: nthr =     60,      100 iters, length =    15360, t =      40.51 usec per iter, BW = 180.80 GB/s, perf =    100099.73 Mflop/s, diff = 1.000000e+00
+ 4: nthr =     60,      100 iters, length =    15360, t =     592.06 usec per iter, BW =  12.76 GB/s, perf =      6849.04 Mflop/s, diff = 3.741011e-33
+ 5: nthr =     60,      100 iters, length =    15360, t =     233.33 usec per iter, BW =  32.37 GB/s, perf =     17378.99 Mflop/s, diff = 3.944968e-33
+ 6: nthr =     60,      100 iters, length =    15360, t =     168.08 usec per iter, BW =  44.94 GB/s, perf =     24125.65 Mflop/s, diff = 3.482848e-33
+
+ 0: nthr =     60,      100 iters, length =    61440, t =    1303.95 usec per iter, BW =  23.17 GB/s, perf =     12439.25 Mflop/s
+ 1: nthr =     60,      100 iters, length =    61440, t =     910.19 usec per iter, BW =  32.19 GB/s, perf =     17820.63 Mflop/s, diff = 8.534630e-33
+ 2: nthr =     60,      100 iters, length =    61440, t =     955.38 usec per iter, BW =  31.62 GB/s, perf =     16977.71 Mflop/s, diff = 3.489465e-33
+ 3: nthr =     60,      100 iters, length =    61440, t =      44.69 usec per iter, BW = 655.56 GB/s, perf =    362948.31 Mflop/s, diff = 1.000000e+00
+ 4: nthr =     60,      100 iters, length =    61440, t =    2339.85 usec per iter, BW =  12.91 GB/s, perf =      6932.14 Mflop/s, diff = 3.738139e-33
+ 5: nthr =     60,      100 iters, length =    61440, t =    1115.42 usec per iter, BW =  27.09 GB/s, perf =     14541.75 Mflop/s, diff = 3.952330e-33
+ 6: nthr =     60,      100 iters, length =    61440, t =     531.70 usec per iter, BW =  56.82 GB/s, perf =     30506.23 Mflop/s, diff = 3.483562e-33
+
+ 0: nthr =     60,      100 iters, length =   245760, t =    5002.82 usec per iter, BW =  24.16 GB/s, perf =     12968.81 Mflop/s
+ 1: nthr =     60,      100 iters, length =   245760, t =    3438.97 usec per iter, BW =  34.08 GB/s, perf =     18866.30 Mflop/s, diff = 8.560000e-33
+ 2: nthr =     60,      100 iters, length =   245760, t =    3572.92 usec per iter, BW =  33.82 GB/s, perf =     18159.00 Mflop/s, diff = 3.497329e-33
+ 3: nthr =     60,      100 iters, length =   245760, t =      50.84 usec per iter, BW = 2305.03 GB/s, perf =   1276173.09 Mflop/s, diff = 1.000000e+00
+ 4: nthr =     60,      100 iters, length =   245760, t =    9614.29 usec per iter, BW =  12.57 GB/s, perf =      6748.35 Mflop/s, diff = 3.734466e-33
+ 5: nthr =     60,      100 iters, length =   245760, t =    5162.96 usec per iter, BW =  23.41 GB/s, perf =     12566.56 Mflop/s, diff = 3.965228e-33
+ 6: nthr =     60,      100 iters, length =   245760, t =    1867.40 usec per iter, BW =  64.72 GB/s, perf =     34743.84 Mflop/s, diff = 3.490381e-33
+
+ 0: nthr =     60,      100 iters, length =   983040, t =   19778.32 usec per iter, BW =  24.44 GB/s, perf =     13121.57 Mflop/s
+ 1: nthr =     60,      100 iters, length =   983040, t =   13593.38 usec per iter, BW =  34.48 GB/s, perf =     19091.83 Mflop/s, diff = 8.566462e-33
+ 2: nthr =     60,      100 iters, length =   983040, t =   14229.80 usec per iter, BW =  33.97 GB/s, perf =     18237.96 Mflop/s, diff = 3.494348e-33
+ 3: nthr =     60,      100 iters, length =   983040, t =      83.36 usec per iter, BW = 5623.20 GB/s, perf =   3113274.47 Mflop/s, diff = 1.000000e+00
+ 4: nthr =     60,      100 iters, length =   983040, t =   39323.60 usec per iter, BW =  12.29 GB/s, perf =      6599.66 Mflop/s, diff = 3.733722e-33
+ 5: nthr =     60,      100 iters, length =   983040, t =   24563.86 usec per iter, BW =  19.68 GB/s, perf =     10565.22 Mflop/s, diff = 3.960797e-33
+ 6: nthr =     60,      100 iters, length =   983040, t =    6920.79 usec per iter, BW =  69.85 GB/s, perf =     37498.98 Mflop/s, diff = 3.490897e-33
+
+ 0: nthr =     60,      100 iters, length =  3932160, t =   79904.43 usec per iter, BW =  24.20 GB/s, perf =     12991.65 Mflop/s
+ 1: nthr =     60,      100 iters, length =  3932160, t =   54682.15 usec per iter, BW =  34.29 GB/s, perf =     18984.08 Mflop/s, diff = 8.546739e-33
+ 2: nthr =     60,      100 iters, length =  3932160, t =   56415.60 usec per iter, BW =  34.27 GB/s, perf =     18400.77 Mflop/s, diff = 3.495613e-33
+ 3: nthr =     60,      100 iters, length =  3932160, t =     203.71 usec per iter, BW = 9204.26 GB/s, perf =   5095921.85 Mflop/s, diff = 1.000000e+00
+ 4: nthr =     60,      100 iters, length =  3932160, t =  153389.65 usec per iter, BW =  12.61 GB/s, perf =      6767.67 Mflop/s, diff = 3.733056e-33
+ 5: nthr =     60,      100 iters, length =  3932160, t =   96168.79 usec per iter, BW =  20.11 GB/s, perf =     10794.46 Mflop/s, diff = 3.960120e-33
+ 6: nthr =     60,      100 iters, length =  3932160, t =   27880.33 usec per iter, BW =  69.35 GB/s, perf =     37233.79 Mflop/s, diff = 3.490331e-33
+ 
+ 
+ 
+ 
+ 
+ 0: nthr =    120,      100 iters, length =    15360, t =     232.43 usec per iter, BW =  32.50 GB/s, perf =     17446.28 Mflop/s
+ 1: nthr =    120,      100 iters, length =    15360, t =     163.03 usec per iter, BW =  44.93 GB/s, perf =     24872.97 Mflop/s, diff = 8.639454e-33
+ 2: nthr =    120,      100 iters, length =    15360, t =     162.18 usec per iter, BW =  46.57 GB/s, perf =     25003.33 Mflop/s, diff = 3.507929e-33
+ 3: nthr =    120,      100 iters, length =    15360, t =      48.49 usec per iter, BW = 151.05 GB/s, perf =     83626.31 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    120,      100 iters, length =    15360, t =     415.58 usec per iter, BW =  18.17 GB/s, perf =      9757.54 Mflop/s, diff = 3.741011e-33
+ 5: nthr =    120,      100 iters, length =    15360, t =     186.04 usec per iter, BW =  40.60 GB/s, perf =     21796.60 Mflop/s, diff = 3.944968e-33
+ 6: nthr =    120,      100 iters, length =    15360, t =     140.95 usec per iter, BW =  53.59 GB/s, perf =     28769.35 Mflop/s, diff = 3.482848e-33
+
+ 0: nthr =    120,      100 iters, length =    61440, t =     822.00 usec per iter, BW =  36.75 GB/s, perf =     19732.55 Mflop/s
+ 1: nthr =    120,      100 iters, length =    61440, t =     577.47 usec per iter, BW =  50.73 GB/s, perf =     28088.32 Mflop/s, diff = 8.534630e-33
+ 2: nthr =    120,      100 iters, length =    61440, t =     663.90 usec per iter, BW =  45.51 GB/s, perf =     24431.63 Mflop/s, diff = 3.489465e-33
+ 3: nthr =    120,      100 iters, length =    61440, t =      47.19 usec per iter, BW = 620.83 GB/s, perf =    343720.28 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    120,      100 iters, length =    61440, t =    1582.03 usec per iter, BW =  19.10 GB/s, perf =     10252.75 Mflop/s, diff = 3.738139e-33
+ 5: nthr =    120,      100 iters, length =    61440, t =     737.02 usec per iter, BW =  40.99 GB/s, perf =     22007.76 Mflop/s, diff = 3.952330e-33
+ 6: nthr =    120,      100 iters, length =    61440, t =     365.00 usec per iter, BW =  82.77 GB/s, perf =     44438.79 Mflop/s, diff = 3.483562e-33
+
+ 0: nthr =    120,      100 iters, length =   245760, t =    3295.37 usec per iter, BW =  36.67 GB/s, perf =     19688.42 Mflop/s
+ 1: nthr =    120,      100 iters, length =   245760, t =    2120.32 usec per iter, BW =  55.27 GB/s, perf =     30599.46 Mflop/s, diff = 8.560000e-33
+ 2: nthr =    120,      100 iters, length =   245760, t =    2212.45 usec per iter, BW =  54.62 GB/s, perf =     29325.25 Mflop/s, diff = 3.497329e-33
+ 3: nthr =    120,      100 iters, length =   245760, t =      51.80 usec per iter, BW = 2262.31 GB/s, perf =   1252522.01 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    120,      100 iters, length =   245760, t =    7988.69 usec per iter, BW =  15.13 GB/s, perf =      8121.56 Mflop/s, diff = 3.734466e-33
+ 5: nthr =    120,      100 iters, length =   245760, t =    3719.27 usec per iter, BW =  32.49 GB/s, perf =     17444.46 Mflop/s, diff = 3.965228e-33
+ 6: nthr =    120,      100 iters, length =   245760, t =    1288.41 usec per iter, BW =  93.80 GB/s, perf =     50357.14 Mflop/s, diff = 3.490381e-33
+
+ 0: nthr =    120,      100 iters, length =   983040, t =   12151.98 usec per iter, BW =  39.78 GB/s, perf =     21356.40 Mflop/s
+ 1: nthr =    120,      100 iters, length =   983040, t =    8349.94 usec per iter, BW =  56.14 GB/s, perf =     31080.77 Mflop/s, diff = 8.566462e-33
+ 2: nthr =    120,      100 iters, length =   983040, t =    8652.63 usec per iter, BW =  55.87 GB/s, perf =     29993.49 Mflop/s, diff = 3.494348e-33
+ 3: nthr =    120,      100 iters, length =   983040, t =      70.00 usec per iter, BW = 6696.43 GB/s, perf =   3707465.14 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    120,      100 iters, length =   983040, t =   24638.37 usec per iter, BW =  19.62 GB/s, perf =     10533.27 Mflop/s, diff = 3.733722e-33
+ 5: nthr =    120,      100 iters, length =   983040, t =   21418.10 usec per iter, BW =  22.57 GB/s, perf =     12116.97 Mflop/s, diff = 3.960797e-33
+ 6: nthr =    120,      100 iters, length =   983040, t =    4639.11 usec per iter, BW = 104.20 GB/s, perf =     55942.32 Mflop/s, diff = 3.490897e-33
+
+ 0: nthr =    120,      100 iters, length =  3932160, t =   53379.86 usec per iter, BW =  36.22 GB/s, perf =     19447.23 Mflop/s
+ 1: nthr =    120,      100 iters, length =  3932160, t =   33596.90 usec per iter, BW =  55.81 GB/s, perf =     30898.39 Mflop/s, diff = 8.546739e-33
+ 2: nthr =    120,      100 iters, length =  3932160, t =   35046.41 usec per iter, BW =  55.17 GB/s, perf =     29620.44 Mflop/s, diff = 3.495613e-33
+ 3: nthr =    120,      100 iters, length =  3932160, t =     134.99 usec per iter, BW = 13889.92 GB/s, perf =   7690126.97 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    120,      100 iters, length =  3932160, t =  154192.61 usec per iter, BW =  12.54 GB/s, perf =      6732.43 Mflop/s, diff = 3.733056e-33
+ 5: nthr =    120,      100 iters, length =  3932160, t =   87682.18 usec per iter, BW =  22.05 GB/s, perf =     11839.24 Mflop/s, diff = 3.960120e-33
+ 6: nthr =    120,      100 iters, length =  3932160, t =   20606.29 usec per iter, BW =  93.84 GB/s, perf =     50377.35 Mflop/s, diff = 3.490331e-33
+ 
+ 
+
+
+
+ 0: nthr =    240,      100 iters, length =    15360, t =     169.55 usec per iter, BW =  44.55 GB/s, perf =     23916.48 Mflop/s
+ 1: nthr =    240,      100 iters, length =    15360, t =     138.98 usec per iter, BW =  52.70 GB/s, perf =     29177.15 Mflop/s, diff = 8.639454e-33
+ 2: nthr =    240,      100 iters, length =    15360, t =     194.53 usec per iter, BW =  38.83 GB/s, perf =     20845.32 Mflop/s, diff = 3.507929e-33
+ 3: nthr =    240,      100 iters, length =    15360, t =      55.09 usec per iter, BW = 132.95 GB/s, perf =     73607.55 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    240,      100 iters, length =    15360, t =     285.39 usec per iter, BW =  26.47 GB/s, perf =     14208.77 Mflop/s, diff = 3.741011e-33
+ 5: nthr =    240,      100 iters, length =    15360, t =     161.29 usec per iter, BW =  46.83 GB/s, perf =     25141.30 Mflop/s, diff = 3.944968e-33
+ 6: nthr =    240,      100 iters, length =    15360, t =     142.71 usec per iter, BW =  52.93 GB/s, perf =     28414.55 Mflop/s, diff = 3.482848e-33
+
+ 0: nthr =    240,      100 iters, length =    61440, t =     621.56 usec per iter, BW =  48.61 GB/s, perf =     26095.89 Mflop/s
+ 1: nthr =    240,      100 iters, length =    61440, t =     441.99 usec per iter, BW =  66.28 GB/s, perf =     36698.02 Mflop/s, diff = 8.534630e-33
+ 2: nthr =    240,      100 iters, length =    61440, t =     562.75 usec per iter, BW =  53.69 GB/s, perf =     28823.03 Mflop/s, diff = 3.489465e-33
+ 3: nthr =    240,      100 iters, length =    61440, t =      56.69 usec per iter, BW = 516.79 GB/s, perf =    286120.30 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    240,      100 iters, length =    61440, t =    1730.48 usec per iter, BW =  17.46 GB/s, perf =      9373.21 Mflop/s, diff = 3.738139e-33
+ 5: nthr =    240,      100 iters, length =    61440, t =     636.02 usec per iter, BW =  47.50 GB/s, perf =     25502.59 Mflop/s, diff = 3.952330e-33
+ 6: nthr =    240,      100 iters, length =    61440, t =     335.68 usec per iter, BW =  90.00 GB/s, perf =     48320.31 Mflop/s, diff = 3.483562e-33
+
+ 0: nthr =    240,      100 iters, length =   245760, t =    2722.96 usec per iter, BW =  44.38 GB/s, perf =     23827.25 Mflop/s
+ 1: nthr =    240,      100 iters, length =   245760, t =    1772.52 usec per iter, BW =  66.11 GB/s, perf =     36603.62 Mflop/s, diff = 8.560000e-33
+ 2: nthr =    240,      100 iters, length =   245760, t =    2625.73 usec per iter, BW =  46.03 GB/s, perf =     24709.56 Mflop/s, diff = 3.497329e-33
+ 3: nthr =    240,      100 iters, length =   245760, t =      64.08 usec per iter, BW = 1828.77 GB/s, perf =   1012494.38 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    240,      100 iters, length =   245760, t =   17174.96 usec per iter, BW =   7.04 GB/s, perf =      3777.63 Mflop/s, diff = 3.734466e-33
+ 5: nthr =    240,      100 iters, length =   245760, t =    4019.59 usec per iter, BW =  30.07 GB/s, perf =     16141.11 Mflop/s, diff = 3.965228e-33
+ 6: nthr =    240,      100 iters, length =   245760, t =    1277.04 usec per iter, BW =  94.63 GB/s, perf =     50805.49 Mflop/s, diff = 3.490381e-33
+
+ 0: nthr =    240,      100 iters, length =   983040, t =    9395.40 usec per iter, BW =  51.45 GB/s, perf =     27622.30 Mflop/s
+ 1: nthr =    240,      100 iters, length =   983040, t =    6551.17 usec per iter, BW =  71.55 GB/s, perf =     39614.69 Mflop/s, diff = 8.566462e-33
+ 2: nthr =    240,      100 iters, length =   983040, t =   10278.88 usec per iter, BW =  47.03 GB/s, perf =     25248.14 Mflop/s, diff = 3.494348e-33
+ 3: nthr =    240,      100 iters, length =   983040, t =      79.84 usec per iter, BW = 5871.12 GB/s, perf =   3250533.07 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    240,      100 iters, length =   983040, t =   34932.45 usec per iter, BW =  13.84 GB/s, perf =      7429.27 Mflop/s, diff = 3.733722e-33
+ 5: nthr =    240,      100 iters, length =   983040, t =   25236.00 usec per iter, BW =  19.16 GB/s, perf =     10283.82 Mflop/s, diff = 3.960797e-33
+ 6: nthr =    240,      100 iters, length =   983040, t =    4406.87 usec per iter, BW = 109.69 GB/s, perf =     58890.45 Mflop/s, diff = 3.490897e-33
+
+ 0: nthr =    240,      100 iters, length =  3932160, t =   40590.14 usec per iter, BW =  47.64 GB/s, perf =     25574.94 Mflop/s
+ 1: nthr =    240,      100 iters, length =  3932160, t =   23976.75 usec per iter, BW =  78.20 GB/s, perf =     43295.70 Mflop/s, diff = 8.546739e-33
+ 2: nthr =    240,      100 iters, length =  3932160, t =   45951.69 usec per iter, BW =  42.08 GB/s, perf =     22590.90 Mflop/s, diff = 3.495613e-33
+ 3: nthr =    240,      100 iters, length =  3932160, t =     136.40 usec per iter, BW = 13746.33 GB/s, perf =   7610632.26 Mflop/s, diff = 1.000000e+00
+ 4: nthr =    240,      100 iters, length =  3932160, t =  169467.31 usec per iter, BW =  11.41 GB/s, perf =      6125.61 Mflop/s, diff = 3.733056e-33
+ 5: nthr =    240,      100 iters, length =  3932160, t =   98510.04 usec per iter, BW =  19.63 GB/s, perf =     10537.91 Mflop/s, diff = 3.960120e-33
+ 6: nthr =    240,      100 iters, length =  3932160, t =   16892.17 usec per iter, BW = 114.47 GB/s, perf =     61453.93 Mflop/s, diff = 3.490331e-33
